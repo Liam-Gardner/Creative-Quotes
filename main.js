@@ -9,7 +9,9 @@ xhttp.onreadystatechange = function () {
         response = JSON.parse(xhttp.responseText);
     }
 };
-var jsonAddressHTTP = "http://www.crafthousecreations.com/json/index.php?f=quotes";
+
+
+var jsonAddressHTTP = "https://cdn.rawgit.com/Liam-Gardner/Creative-Quotes/master/json/index.php?f=quotes";
 xhttp.open("GET", jsonAddressHTTP, true);
 xhttp.send();
 
