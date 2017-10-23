@@ -25,35 +25,17 @@ function randomQuote(min, max) {
     max = Math.floor(max);
     var randomNum = [Math.floor(Math.random() * (max - min)) + min];
         //return a random quote with the correct author and also html tags 
-    currentQuote = response.quotes[randomNum].quote; 
+    currentQuote = response.quotes[randomNum].quote;
     currentAuthor = response.quotes[randomNum].author;
     return currentQuote + "<strong>" + "<br>" + "<p style='float:right'>" + currentAuthor;
 }
-
-
-/*
-
---SEARCH--
-
-Find by tag ->
-function tag(tags){
-var newArrTag = [];
-for (i=0;i<response.quotes.length;i++){
-if(response.quotes[i].tags == tags){
-newArrTag.push(response.quotes[i].quote); console.log(newArrTag)}
-}
-}
-Create tag buttons eg, feminism, god, etc
-onClick the above code will run and then it will push them to a new array which will then be randomised for display only
-*/
-
 
 //TWITTER API
 window.twttr = (function (d, s, id) {
     'use strict';
     var js, fjs = d.getElementsByTagName(s)[0],
         t = window.twttr || {};
-    if (d.getElementById(id))
+    if (d.getElementById(id)) 
     return t;
     js = d.createElement(s);
     js.id = id;
@@ -85,34 +67,3 @@ $(function () {
         tweetMe();
     });
 });
-
-    
- 
-    /*
-    currentQuote = response.quotes[randomNum].quote + "<strong>" + " " + response.quotes[randomNum].author + "</strong>" + "<br/><br/>";
-    
-    currentQuote = response.quotes[randomNum].quote + response.quotes[randomNum].author;
-    
-    
-    $('#tweet').on('click', function() {
-    $this.attr('href', 'https://twitter.com/intent/tweet?hashtags=quotes&related=freecodecamp&text=' + encodeURIComponent('"' + currentQuote))
-    
-    
-    $.each($('#tweet'), function() { //Add tweet href to Twitter buttons on page load
-			var $birdName = $(this).attr('data-bird'),
-				$birdImage = $(this).attr('data-birdimage'),
-				$birdText = $(this).attr('data-twitter');
-			$(this).attr('href', 'https://twitter.com/intent/tweet?text=' + encodeURIComponent($birdText) + '+BirdsTellUs.org+%23COP21+' + $birdImage);
-		});
-    
-
-
-*/
-
-
- 
-  
-  
-
-   
-    
