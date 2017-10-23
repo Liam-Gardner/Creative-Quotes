@@ -1,0 +1,186 @@
+h1 {
+    color: red;
+}
+
+body {
+    background-color: black;          
+}
+
+div.container {
+    border: 0px solid black;
+}
+
+div.empty{
+    height: 60px;
+    border: 0px solid grey;
+}
+
+div.col-sm-3 {
+    border: 0px solid blue;
+}
+
+div.col-sm-4 {
+    border: 0px solid yellow;
+    
+}
+
+div.col-sm-6 {
+    border: 0px solid red;
+    padding: 10px;
+}
+
+div.mainQuote{
+    background-color: ;
+    border-radius:20px;
+    background-image: url(https://i.pinimg.com/originals/17/0d/9c/170d9cdcb5432859db545ac625ac2e87.jpg);
+}
+
+p#quoteSpace {
+    background-color: transparent;
+    border-radius: 0px 0px 0px 0px;
+    color:black;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    border: 0px none grey;
+    box-sizing: border-box;
+    max-width:650px;
+    margin-left:;
+    font-weight:;
+    overflow: hidden;
+    font-size: 20px;
+    margin: auto auto -0.1em auto; /* fixes gap in between <p> on large displays*/
+    outline:none
+}
+
+p#extra{
+    background-color: transparent;
+    border-radius: 20px 20px 0px 0px;
+    outline: none;
+    color:transparent;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    border: 0px none antiquewhite;
+    box-sizing: border-box;
+    max-width:650px;
+    margin-left:;
+    font-weight:;
+    overflow: hidden;
+    font-size: 20px;
+    margin:auto auto -0.1em auto;
+}
+
+p#extraTweet{
+    background-color: transparent;
+    border-radius: 0px 0px 20px 20px;
+    outline:none;
+    color:black;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    border: 0px none antiquewhite;
+    box-sizing: border-box;
+    max-width:650px;
+    margin-left:;
+    font-weight:;
+    overflow: hidden;
+    font-size: 20px;
+    margin:auto auto -0.1em auto;
+}
+
+div.row {
+    border: 0px none blue;
+}
+
+
+#getQuote{
+    position: relative;
+    background-color: black;
+    border: 2px solid transparent;
+    padding: 10px 10px 10px 10px;
+    font-size: 14px;
+    color: bisque;
+    cursor:default;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    overflow: hidden;
+    border-radius: 10px ;
+    outline:none;
+    float:right
+    }
+
+#getQuote:after {
+    content: "";
+    background-color: bisque;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    border: none;
+    transition: all 0.8s;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#getQuote:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+    border-radius: 10px
+}
+
+img.twitterBtn{
+    width:53px;
+    height: 53px;
+    
+}
+
+#tweet{
+   position: relative;
+    background-color: transparent;
+    border: 0px solid black;
+    padding: 10px 10px 10px 10px;
+    font-size: 14px;
+    color: black;
+    cursor:default;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    overflow: hidden;
+    margin-left: ;
+    border-radius: 10px;
+    outline:none;
+    float:left;
+    
+}
+
+#tweet:after {
+    content: "";
+    background-color: bisque;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    border: none;
+    transition: all 0.8s;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#tweet:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s;
+    border-radius: 10px
+}

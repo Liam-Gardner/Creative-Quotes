@@ -1,0 +1,1042 @@
+{
+	"quotes": [
+        {
+			"id": 0,
+			"quote": "'The primary imagination I hold to be the Living Power.'",
+			"author": " - Samuel Taylor Colebridge"
+		},
+		{
+			"id": 1,
+			"quote": "'Man is asked to make of himself what he is supposed to become to fulfill his destiny.'",
+			"author": " - Paul Tillich"
+		},
+		{
+			"id": 2,
+			"quote": "'I myself do nothing. The Holy Spirit accomplishes all through me.'",
+			"author": " - William Blake",
+            "tags": "god"
+		},
+		{
+			"id": 3,
+			"quote": "'Why indeed must 'God' be a noun? Why not a verb...the most active and dynamic of all?'",
+			"author": " - Mary Daly",
+            "tags": "god"
+		},
+		{
+			"id": 4,
+			"quote": "'In the brush doing what it's doing, it will stumble on what one couldn't do by oneself.'",
+			"author": " - Robert Motherwell",
+            "tags": "painting"
+
+		},
+		{
+			"id": 5,
+			"quote": "'You need to claim the events of your life to make yourself yours.'",
+			"author": " - Anne-Wilson Schaef"
+
+		},
+		{
+			"id": 6,
+			"quote": "'Words are a form of action, capable of influencing change.'",
+			"author": " - Ingrid Bengis"
+
+		},
+		{
+			"id": 7,
+			"quote": "'What lies behind us and what lies before us are tiny matters, compared to what lies within us.'",
+			"author": " - Ralph Waldo Emerson"
+
+		},
+		{
+			"id": 8,
+			"quote": "'The purpose of art is not a rarified, intellectual distillate - it is life, intensified, brilliant life.'",
+			"author": " - Alain Arias-Misson"
+
+		},
+		{
+			"id": 9,
+			"quote": "'Why should we all use our creative power...? Because there is nothing that makes people so generous, joyful, lively, bold and compassionate, so indifferent to fighting and the accumulation of objects and money.'",
+			"author": " - Brenda Ueland"
+
+		},
+		{
+			"id": 10,
+			"quote": "'I paint not by sight but by faith. Faith gives you sight.'",
+			"author": " - Amos Ferguson",
+            "tags": "painting"
+
+		},
+		{
+			"id": 11,
+			"quote": "'Creativity is harnessing universality and making it flow through your eyes.'",
+			"author": " - Peter Koestenbaum"
+
+		},
+		{
+			"id": 12,
+			"quote": "'What we play is life.'",
+			"author": " - Louis Armstrong",
+            "tags": "music"
+
+		},
+		{
+			"id": 13,
+			"quote": "'Great improvisors are like priests. They are thinking only of their God.'",
+			"author": " - Stephane Grappelli",
+            "tags": "god"
+
+		},
+		{
+			"id": 14,
+			"quote": "'Every blade of grass has its Angel that bends over it and whispers, 'Grow, grow.''",
+			"author": " - The Talmud"
+
+		},
+		{
+			"id": 15,
+			"quote": "'It is the creative potential itself in human beings that is the image of God.'",
+			"author": " - Mary Daly",
+            "tags": "god"
+
+		},
+		{
+			"id": 16,
+			"quote": "'We must accept that this creative pulse within us is God's creative pulse itself.'",
+			"author": " - Joseph Chilton Pearce",
+            "tags": "god"
+
+		},
+		{
+			"id": 17,
+			"quote": "'Straightaway the ideas flow in upon me, directly from God.'",
+			"author": " - Johannes Brahms",
+            "tags": ["god", "music"]
+
+		},
+		{
+			"id": 18,
+			"quote": "'The music of this opera was dictated to me by God; I was merely instrumental in painting it on paper and communicating it to the public.'",
+			"author": " - Giacomo Puccini",
+            "tags": ["god", "music"]
+
+		},
+		{
+			"id": 19,
+			"quote": "'God must become an activity in our consciousness.'",
+			"author": " - Joel S. Goldsmith",
+            "tags": "god"
+
+		},
+		{
+			"id": 20,
+			"quote": "'The position of the artist is humble. He is essentially a channel.'",
+			"author": " - Piet Mondrian"
+
+		},
+		{
+			"id": 21,
+			"quote": "'A mind too active is no mind at all.'",
+			"author": " - Theodore Roethke"
+
+		},
+		{
+			"id": 22,
+			"quote": "'The events in our lives happen in a sequence in time, but in their significance to ourselves, they find their own order...the continuous thread of revelation.'",
+			"author": " - Eudora Welty"
+
+		},
+		{
+			"id": 23,
+			"quote": "'Poetry often enters through the window of irrelevance.'",
+			"author": " - M.C Richards"
+
+		},
+		{
+			"id": 24,
+			"quote": "'Inspiration may be a form of superconsciousness - I wouldn't know. But I am sure it is the antithesis of self-consciousness.'",
+			"author": " - Aaron Copland"
+
+		},
+		{
+			"id": 25,
+			"quote": "'It always comes back to the same necessity: go deep enough and there is a bedrock of truth, however hard.'",
+			"author": " - May Sarton"
+
+		},
+		{
+			"id": 26,
+			"quote": "'Like an ability or a muscle, hearing your inner wisdom is strengthened by doing it.'",
+			"author": " - Robbie Gass"
+
+		},
+		{
+			"id": 27,
+			"quote": "'It is in the knowledge of the genuine conditions of our lives that we must draw our strength to live and our reasons for living.'",
+			"author": " - Simone De Beauvoir"
+
+		},
+		{
+			"id": 28,
+			"quote": "'Painting is just another way of keeping a diary.'",
+			"author": " - Pablo Picasso"
+
+		},
+		{
+			"id": 29,
+			"quote": "'Experience, even for a painter, is not exclusively visual.'",
+			"author": " - Walter Meigs"
+
+		},
+		{
+			"id": 30,
+			"quote": "'The most potent muse of all is our own inner child.'",
+			"author": " - Stephen Nachmanovitch"
+
+		},
+		{
+			"id": 31,
+			"quote": "'At the height of laughter, the universe is flung into a kaleidoscope of new possibilities.'",
+			"author": " - Jean Houston"
+
+		},
+		{
+			"id": 32,
+			"quote": "'The creation of something new is not accomplished by the intellect but by the play instinct acting from inner necessity. The creative mind plays with the objects it loves.'",
+			"author": " - C. G. Jung"
+
+		},
+		{
+			"id": 33,
+			"quote": "'Every child is an artist. The problem is how to remain an artist once he grows up.'",
+			"author": " - Pablo Picasso"
+
+		},
+		{
+			"id": 34,
+			"quote": "'During [these] periods of relaxation after concentrated intellectual activity, the intuitive mind seems to take over and can produce the sudden clarifying insights which give so much joy and delight.'",
+			"author": " - Fritjof Capra"
+		},
+		{
+			"id": 35,
+			"quote": "'Younger Self - who can be as balky and stubborn as the most cantankerous three-year-old - is not impressed by words. Like a native of Missouri, it wants to be shown. To aruose its interest, we must seduce it with pretty pictures and pleasurable sensations - take it out dining and dancing as it were. Only in this way can Deep Self be reached.'",
+			"author": " - Starhawk (Theologian)"
+		},
+		{
+			"id": 36,
+			"quote": "'Nobody sees a flower really. It is so small it takes time, we haven't time, and to see takes time, like to have a friend takes time.",
+			"author": " - Georgia O'Keefe"
+		},
+		{
+			"id": 37,
+			"quote": "'So you see, imagination needs moodling - long, inefficient happy idling, dawdling and puttering.'",
+			"author": " - Brenda Ueland"
+		},
+		{
+			"id": 38,
+			"quote": "'The true mystery of the world is the visible, not the invisible.'",
+			"author": " - Oscar Wilde"
+		},
+		{
+			"id": 39,
+			"quote": "'Inside you there's an artist you don't know about...Say yes quickly, if you know, if you've known it from before the beginning of the universe.'",
+			"author": " - Jalai Ud-Din Rumi"
+		},
+        {
+			"id": 40,
+			"quote": "'Nothing has a stronger influence psychologically on their environment and especially on their children than the unlived life of the parent.'",
+			"author": " - C. G. Jung"
+		},
+        {
+			"id": 41,
+			"quote": "'I believe that if it were left to artists to choose their own labels, most would choose none.'",
+			"author": " - Ben Shahn"
+		},
+        {
+			"id": 42,
+			"quote": "'We have been taught to believe that negative equals realistic and positive equals unrealistic.'",
+			"author": " - Susan Jeffers"
+		},
+        {
+			"id": 43,
+			"quote": "'Do not weep; do not wax indignant. Understand.'",
+			"author": " - Baruch Spinoza"
+		},
+        {
+			"id": 44,
+			"quote": "'To live a creative life, we must lose our fear of being wrong.'",
+			"author": " - Joseph Chilton Pearce"
+		},
+        {
+			"id": 45,
+			"quote": "'When you are feeling depreciated, angry or drained, it is a sign that other people are not open to your energy.'",
+			"author": " - Sanaya Roman"
+		},
+        {
+			"id": 46,
+			"quote": "'Painting is an attempt to come to terms with life. There are as many solutions as there are human beings.'",
+			"author": " - George Tooker"
+		},
+        {
+			"id": 47,
+			"quote": "'I cannot believe that the inscrutable universe turns on an axis of suffering; surely the strange beauty of the world must somewhere rest on pure joy!'",
+			"author": " - Louise Bogan"
+		},
+        {
+			"id": 48,
+			"quote": "'Affirmations are like prescriptions for certain aspects of yourself you want to change.'",
+			"author": " - Jerry Frankhauser"
+		},
+        {
+			"id": 49,
+			"quote": "'The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.'",
+			"author": " - C. G. Jung"
+		},
+        {
+			"id": 50,
+			"quote": "'An affirmation is a strong, positive statement that something is already so.'",
+			"author": " - Shakti Gawain"
+		},
+        {
+			"id": 51,
+			"quote": "'Go confidently in the direction of your dreams! Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.'",
+			"author": " - Henry David Thoreau"
+		},
+        {
+			"id": 52,
+			"quote": "'Make your own recovery the first priority in your life.'",
+			"author": " - Robin Norwood"
+		},
+        {
+			"id": 53,
+			"quote": "'Every time we say 'Let there be!' in any form, something happens.'",
+			"author": " - Stella Terrill Mann"
+		},
+        {
+			"id": 54,
+			"quote": "'Undoubtedly, we become what we envisage.'",
+			"author": " - Claude M. Bristol"
+		},
+        {
+			"id": 55,
+			"quote": "'All sanity depends on this: that it should be a delight to feel heat strike the skin, a delight to stand upright, knowing the bones are moving easily under the flesh.'",
+			"author": " - Doris Lessing"
+		},
+        {
+			"id": 56,
+			"quote": "'Snipers are people who undermine your efforts to break unhealthy relationship patterns.'",
+			"author": " - Jody Hayes"
+		},
+        {
+			"id": 57,
+			"quote": "'To know what you prefer instead of humbly saying Amen to what the world tells you you ought to prefer, is to have kept your soul alive.'",
+			"author": " - Robert Louis Stevenson"
+		},
+        {
+			"id": 58,
+			"quote": "'Every time you don't follow your inner guidance, you feel a loss of energy, loss of power, a sense of spiritual deadness.'",
+			"author": " - Shakti Gawain"
+		},
+        {
+			"id": 59,
+			"quote": "'Learn to get in touch with the silence within yourself and know that everything in this life has a purpose.'",
+			"author": " - Elisabeth Kübler-Ross"
+		},
+        {
+			"id": 60,
+			"quote": "'What I am actually saying is that we need to be willing to let our intuition guide us, and then be willing to follow that guidance directly and fearlessly.'",
+			"author": " - Shakti Gawain"
+		},
+        {
+			"id": 61,
+			"quote": "'Slow down and enjoy life. It's not only the scenery you miss by going too fast - you also miss the sense of where you are going and why.'",
+			"author": " - Eddie Cantor"
+		},
+        {
+			"id": 62,
+			"quote": "'Whatever God's dream about man may be, it seems certain it cannot come true unless man cooperates.'",
+			"author": " - Stella Terrill Mann",
+            "tags": "god"
+		},
+        {
+			"id": 63,
+			"quote": "'To believe in God or in a guiding force because someone tells you to is the height of stupidity. We are given senses to receive our information with. With our own eyes we see, and with our skin we feel. With our intelligence, it is intended we understand. But each person must puzzle it out for himself or herself.'",
+			"author": " - Sophy Burnham",
+            "tags": "god"
+		},
+        {
+			"id": 64,
+			"quote": "'Think of yourself as an incandescent power, illuminated and perhaps forever talked to by God and his messengers.'",
+			"author": " - Brenda Ueland",
+            "tags": "god"
+		},
+        {
+			"id": 65,
+			"quote": "'No matter how slow the film, Spirit always stands still long enough for the photographer It has chosen.'",
+			"author": " - Minor White"
+		},
+        {
+			"id": 66,
+			"quote": "'Develop interest in life as you see it; in people, things, literature, music - the world is so rich, simply throbbing with rich treasures, beautiful souls and interesting people. Forget yourself.'",
+			"author": " - Henry Miller"
+		},
+        {
+			"id": 67,
+			"quote": "'The noun of self becomes a verb. This flashpoint of creation in the present moment is where work and play merge.'",
+			"author": " - Stephen Nachmanovitch"
+		},
+        {
+			"id": 68,
+			"quote": "'The painting has a life of its own. I try to let it come through.'",
+			"author": " - Jackson Pollock"
+		},
+        {
+			"id": 69,
+			"quote": "'I shut my eyes in order to see.'",
+			"author": " - Paul Gauguin"
+		},
+        {
+			"id": 70,
+			"quote": "'I merely took the energy it takes to pout and wrote some blues.'",
+			"author": " - Duke Ellington"
+		},
+        {
+			"id": 71,
+			"quote": "'When a man takes one step toward God, God takes more steps toward that man than there are sands in the worlds of time.'",
+			"author": " - The Work Of The Chariot",
+            "tags": "god"
+		},
+        {
+			"id": 72,
+			"quote": "'The universe will reward you for taking risks on its behalf.'",
+			"author": " - Shakti Gawain"
+		},
+        {
+			"id": 73,
+			"quote": "'A discovery is said to be an accident meeting a prepared mind.'",
+			"author": " - Albert Szent-Gyorgyi"
+		},
+        {
+			"id": 74,
+			"quote": "'Did you ever observe to whom the accident happens? Chance favors only the prepared mind.'",
+			"author": " - Louis Pasteur"
+		},
+        {
+			"id": 75,
+			"quote": "'Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be fish.'",
+			"author": " - Ovid"
+		},
+        {
+			"id": 76,
+			"quote": "'Desire, ask, believe, receive.'",
+			"author": " - Stella Terrill Mann"
+		},
+        {
+			"id": 77,
+			"quote": "'Genuine beginnings begin within us, even when they are brought to our attention by external opportunities.'",
+			"author": " - William Bridges"
+		},
+        {
+			"id": 78,
+			"quote": "'The cost of a thing is the amount of what I call life which is required to be exchanged for it, immediately or in the long run.'",
+			"author": " - Henry David Thoreau"
+		},
+        {
+			"id": 79,
+			"quote": "'We will discover the nature of our particular genius when we stop trying to conform to our own or to other peoples' models, learn to be ourselves, and allow our natural channel to open.'",
+			"author": " - Shakti Gawain"
+		},
+        {
+			"id": 80,
+			"quote": "'Since you are like no other being ever created since the beginning of time, you are incomparable.'",
+			"author": " - Brenda Ueland"
+		},
+        {
+			"id": 81,
+			"quote": "'I have made my world and it is a much better world than I ever saw outside.'",
+			"author": " - Louise Nevelson"
+		},
+        {
+			"id": 82,
+			"quote": "'What doesn't kill me makes me stronger.'",
+			"author": " - Albert Camus"
+		},
+        {
+			"id": 83,
+			"quote": "'The words than enlighten the soul are more precious than jewels.'",
+			"author": " - Hazrat Inayat Khan"
+		},
+        {
+			"id": 84,
+			"quote": "'Artists who seek perfection in everything are those who cannot attain it in anything.'",
+			"author": " - Eugéne Delacroix"
+		},
+        {
+			"id": 85,
+			"quote": "'Take your life in your own hands and what happens? A terrible thing: no one to blame.'",
+			"author": " - Erica Jong"
+		},
+        {
+			"id": 86,
+			"quote": "'There is a vitality, a life force, an energy, a quickening, that is translated through you into action, and because there is only one of you in all time, this expression is unique. And if you block it, it will never exist through any other medium and will be lost.'",
+			"author": " - Martha Graham"
+		},
+        {
+			"id": 87,
+			"quote": "'Whenever I have to choose between two evils, I always like to try the one I haven't tried before.'",
+			"author": " - Mae West"
+		},
+        {
+			"id": 88,
+			"quote": "'Creative work is play. It is free speculation using the materials of one's chosen form.'",
+			"author": " - Stephen Nachmanovitch"
+		},
+        {
+			"id": 89,
+			"quote": "' Creativity is...seeing something that doesn't exist already.You need to find out how you can bring it into being and that way be a playmate with God.'",
+			"author": " - Michele Shea",
+            "tags": "god"
+		},
+        {
+			"id": 90,
+			"quote": "'Each painting has its own way of evolving... When the painting is finished, the subject is reveals itself.'",
+			"author": " - William Baziotes"
+		},
+        {
+			"id": 91,
+			"quote": "'Eliminate something superfluous from your life. Break a habit. Do something that makes you feel insecure.'",
+			"author": " - Piero Ferrucci"
+		},
+        {
+			"id": 92,
+			"quote": "'Stop thinking and talking about it and there is nothing you will not be able to know.'",
+			"author": " - Zen Paradigm"
+		},
+        {
+			"id": 93,
+			"quote": "'All the arts we practice are apprenticeship. The big art is our life.'",
+			"author": " - M. C. Richards"
+		},
+        {
+			"id": 94,
+			"quote": "'It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.'",
+			"author": " - Seneca"
+		},
+        {
+			"id": 95,
+			"quote": "'To become truly immortal, a work of art must escape all human limits: logic and common sense will only interfere. But once these barriers are broken, it will enter the realms of childhood visions and dreams.'",
+			"author": " - Giorgio De Chirico"
+		},
+        {
+			"id": 96,
+			"quote": "'The center that I cannot find is known to my unconscious mind.'",
+			"author": " - W. H. Auden"
+		},
+        {
+			"id": 97,
+			"quote": "'All you need to do to receive guidance is to ask for it and then listen.'",
+			"author": " - Sanaya Roman"
+		},
+        {
+			"id": 98,
+			"quote": "'We are always doing something, talking, reading, listening to the radio, planning what next. The mind is kept naggingly busy on some easy, unimportant external thing all day.'",
+			"author": " - Brenda Ueland"
+		},
+        {
+			"id": 99,
+			"quote": "'In the dark time, the eye begins to see.'",
+			"author": " - Theodore Roethke"
+		},
+        {
+			"id": 100,
+			"quote": "'When the soul wishes to experience something she throws an image of the experience out before her and enters into her own image.'",
+			"author": " - Meister Eckhart"
+		},
+        {
+			"id": 101,
+			"quote": "'I learned that the real creator was my inner Self, the Shaketi... That desire to do something is God inside talking through us.'",
+			"author": " - Michele Shea",
+            "tags": "god"
+		},
+        {
+			"id": 102,
+			"quote": "'Expect your every need to be met, expect the answer to every problem, expect abundance on every level, expect to grow spiritually.'",
+			"author": " - Eileen Caddy"
+		},
+        {
+			"id": 103,
+			"quote": "'Look and you will find it - what is unsought will go undetected.'",
+			"author": " - Sophocles"
+		},
+        {
+			"id": 104,
+			"quote": "'It is within my power either to serve God or not to serve him. Serving him, I add to my own good and the good of the whole world. Not serving him, I forfeit my own good and deprive the world of that good, which was in my power to create.'",
+			"author": " - Leo Tostoy",
+            "tags": "god"
+		},
+        {
+			"id": 105,
+			"quote": "'Often people attempt to live their lives backwards: they try to have more things, or more money, on order to do more of what they want so that they will be happier. The way it actually works is the reverse. You must first be who you really are, then, do what you need to do, in order to have what you want.'",
+			"author": " - Margaret Young"
+		},
+        {
+			"id": 106,
+			"quote": "'We are traditionally rather proud of ourselves for having slipped creative work in their between the domestic chores and obligations. I'm not sure we deserve such big A-pluses for that.'",
+			"author": " - Toni Morrison"
+		},
+        {
+			"id": 107,
+			"quote": "'You build up a head of steam. If you're four days out of the studio, on the fifth day you really crash in there. You will kill anybody who disturbs you on that fifth day, when you desperately need it.'",
+			"author": " - Susan Rothenberg"
+		},
+        {
+			"id": 108,
+			"quote": "'Nobody objects to a woman being a good writer or sculptor or geneticist if at the same she manages to be a good wife, good mother, good-looking, good-tempered, well-groomed, and unaggressive.'",
+			"author": " - Leslie M.McIntyre",
+            "tags": "feminism"
+		},
+        {
+			"id": 109,
+			"quote": "'There is the risk you cannot afford to take, [and] there is the risk you cannot afford not to take.'",
+			"author": " - Peter Drucker"
+		},
+        {
+			"id": 110,
+			"quote": "'You will do foolish things, but do them with enthusiasm.'",
+			"author": " - Colette"
+		},
+        {
+			"id": 111,
+			"quote": "'The specific meaning of God depends on what is the most desirable good for a person.'",
+			"author": " - Erich Fromm",
+            "tags": "god"
+		},
+        {
+			"id": 112,
+			"quote": "'To accept the responsibility of being a child of God is to accept the best that life has to offer you.'",
+			"author": " - Stella Terrill Mann",
+            "tags": "god"
+		},
+        {
+			"id": 113,
+			"quote": "'Money is God in action.'",
+			"author": " - Raymond Charles Barker",
+            "tags": ["god", "money"]
+		},
+        {
+			"id": 114,
+			"quote": "'The more we learn to operate in the world based on trust in our intuition, the stronger our channel will be and the more money we will have.'",
+			"author": " - Shakti Gawain",
+            "tags": "money"
+		},
+        {
+			"id": 115,
+			"quote": "'Money will come when you are doing the right thing.'",
+			"author": " - Mike Phillips",
+            "tags": "money"
+		},
+        {
+			"id": 116,
+			"quote": "'Always leave enough time in your life to do something that makes you happy, satisfied, even joyous. That has more of an effect on economic well-being than any other single factor.'",
+			"author": " - Paul Hawken",
+            "tags": "money"
+		},
+        {
+			"id": 117,
+			"quote": "'All substance is energy in motion. It lives and flows. Money is symbolically a golden, flowing stream of concretized vital energy.'",
+			"author": " - The Magical Work of the Soul",
+            "tags": "money"
+		},
+        {
+			"id": 118,
+			"quote": "'I'd rather have roses on my table than diamonds on my neck.'",
+			"author": " - Emma Goldman"
+		},
+        {
+			"id": 119,
+			"quote": "'Explore daily the will of God.'",
+			"author": " - C. G. Jung",
+            "tags": "god"
+		},
+        {
+			"id": 120,
+			"quote": "'True life is lived when tiny changes occur.'",
+			"author": " - Leo Tolstoy"
+		},
+        {
+			"id": 121,
+			"quote": "'As an artist, it is central to be unsatisfied! This isn't greed though it might be appetite.'",
+			"author": " - Lawrence Calcgno"
+		},
+        {
+			"id": 122,
+			"quote": "'In the esoteric Judaism of the Cabalah, the Deep Self is named the Neshamah, from the root of Shmhm, 'to hear or listen': the Neshamah is She Who Listens, the soul who inspires or guides us.'",
+			"author": " - Starhawk"
+		},
+        {
+			"id": 123,
+			"quote": "'Listening is a form of accepting.'",
+			"author": " - Stella Terrill Mann"
+		},
+        {
+			"id": 124,
+			"quote": "'Cerebration is the enemy of originality in art.'",
+			"author": " - Martin Ritt"
+		},
+        {
+			"id": 125,
+			"quote": "'Living is a form of not being sure, not knowing what next or how. The moment you know how, you begin to die a little. The artist never entirely knows. We guess. We may be wrong, but we take leap after leap in the dark.'",
+			"author": " - Agnes De Mille"
+		},
+        {
+			"id": 126,
+			"quote": "'We cannot escape fear. We can only transform it into a companion that accompanies us on all our exciting adventures... Take a risk a day - one small or bold stroke that will make you feel great once you have done it.'",
+			"author": " - Susan Jeffers"
+		},
+        {
+			"id": 127,
+			"quote": "'There is no must in art because art is free.'",
+			"author": " - Wassily Kandinsky"
+		},
+        {
+			"id": 128,
+			"quote": "'Shoot for the moon. Even if you miss it you will land among the stars.'",
+			"author": " - Les Brown"
+		},
+        {
+			"id": 129,
+			"quote": "'With courage you will dare to take risks, have the strength to be compassionate and the wisdom to be humble. Courage is the foundation of integrity.'",
+			"author": " - Keshavan Nair"
+		},
+        {
+			"id": 130,
+			"quote": "'I don't have a lot of respect for talent. Talent is genetic. It's what you do with it that counts.'",
+			"author": " - Martin Ritt"
+		},
+        {
+			"id": 131,
+			"quote": "'Trust in yourself. Your perceptions are often far more accurate than you are willing to believe.'",
+			"author": " - Claudia Black"
+		},
+        {
+			"id": 132,
+			"quote": "'When you start a painting, it is somewhat outside you. At the conclusion, you seem to move inside the painting.'",
+			"author": " - Fernando Botero"
+		},
+        {
+			"id": 133,
+			"quote": "'When an inner situation is not made conscious, it appears outside as fate.'",
+			"author": " - C. G. Jung"
+		},
+        {
+			"id": 134 ,
+			"quote": "'I shall become a master in this art only after a great deal of practice.'",
+			"author": " - Erich Fromm"
+		},
+        {
+			"id": 135,
+			"quote": "'Taking a new step, uttering a new word is what people fear most.'",
+			"author": " - Fyodor Dostoyevski"
+		},
+        {
+			"id": 136,
+			"quote": "'Imagination is more important than knowledge.'",
+			"author": " - Albert Einstein"
+		},
+        {
+			"id": 137,
+			"quote": "'Surround yourself with people who respect and treat you well.'",
+			"author": " - Claudia Black"
+		},
+        {
+			"id": 138,
+			"quote": "'To the rationally minded the mental processes of the intuitive appear to work backwards.'",
+			"author": " - Frances Wickes"
+		},
+        {
+			"id": 139,
+			"quote": "'Trust that still, small voice that says, 'This might work and I'll try it'.'",
+			"author": " - Diane Mariechild"
+		},
+        {
+			"id": 140,
+			"quote": "'Man can learn nothing except by going from the known to the unknown.'",
+			"author": " - Claude Bernard"
+		},
+        {
+			"id": 141,
+			"quote": "'I cannot expect even my own art to provide all of the answers - only to hope it keeps asking the right questions.'",
+			"author": " - Grace Hartigan"
+		},
+        {
+			"id": 142,
+			"quote": "'Art is a technique of communication. The image is the most complete technique of all communication.'",
+			"author": " - Claus Oldenburg"
+		},
+        {
+			"id": 143,
+			"quote": "'The world of reality has its limits; the world of imagination is boundless.'",
+			"author": " - Jean-Jaques Rousseau"
+		},
+        {
+			"id": 144,
+			"quote": "'Satisfaction of one's curiosity is one of the greatest sources of happiness in life.'",
+			"author": " - Linus Pauling"
+		},
+        {
+			"id": 145,
+			"quote": "'There is a logic of colours, and it is with this alone, and not with the logic of the brain, that the painter should conform.'",
+			"author": " - Paul Cézanne"
+		},
+        {
+			"id": 146,
+			"quote": "'Art? You just do it.'",
+			"author": " - Martin Ritt"
+		},
+        {
+			"id": 147,
+			"quote": "'No trumpets sound when the important decisions of our life are made. Destiny is made known silently.'",
+			"author": " - Agnes De Mille"
+		},
+        {
+			"id": 148,
+			"quote": "'I am in the world only for the purpose of composing.'",
+			"author": " - Franz Schubert",
+            "tags": "music"
+		},
+        {
+			"id": 149,
+			"quote": "'Your desire is your prayer. Picture the fulfillment of your desire now and feel its reality and you will experience the joy of the unanswered prayer.'",
+			"author": " - Dr. Joseph Murphy"
+		},
+        {
+			"id": 150,
+			"quote": "'It doesn't mean a thing if ain't got that swing.'",
+			"author": " - Duke Ellington and Irving Mills",
+            "tags": "music"
+		},
+        {
+			"id": 151,
+			"quote": "'Art evokes the mystery without which the world would not exist.'",
+			"author": " - René-François-Ghislain Magritte"
+		},
+        {
+			"id": 152,
+			"quote": "'Man is not free to refuse to do the thing which gives him more pleasure than any other conceivable action.'",
+			"author": " - Stendhal"
+		},
+        {
+			"id": 153,
+			"quote": "'Life shrinks or expands in proportion to one's courage.'",
+			"author": " - Anaïs Nin"
+		},
+        {
+			"id": 154,
+			"quote": "'Music is your own experience, your thoughts, your wisdom. If you don't live it, it won't come out your horn.'",
+			"author": " - Charlie Parker",
+            "tags": "music"
+		},
+        {
+			"id": 155,
+			"quote": "'Be really whole and all things will come to you.'",
+			"author": " - Lao-Tzu"
+		},
+        {
+			"id": 156,
+			"quote": "'Learning is movement from moment to moment.'",
+			"author": " - J. Krishnamurti"
+		},
+        {
+			"id": 157,
+			"quote": "'We learn to do something by doing it. There is no other way.'",
+			"author": " - John Holt"
+		},
+        {
+			"id": 158,
+			"quote": "'Saying no can be the ultimate self-care.'",
+			"author": " - Claudia Black"
+		}, 
+        {
+			"id": 159,
+			"quote": "'In the middle of difficulty lies opportunity.'",
+			"author": " - Albert Einstein"
+		},
+        {
+			"id": 160,
+			"quote": "'When we are really honest with ourselves we must admit our lives are all that really belong to us. So it is how we use our lives that determines the kind of men we are.'",
+			"author": " - Cesar Chavez"
+		},
+        {
+			"id": 161,
+			"quote": "'The life which is not examined is not worth living.'",
+			"author": " - Plato"
+		},
+        {
+			"id": 162,
+			"quote": "'Sell your cleverness and buy bewilderment.'",
+			"author": " - Jalal Ud-Din Rumi"
+		},
+        {
+			"id": 163,
+			"quote": "'Truly, it is in the darkness that one finds the light, so when we are in sorrow, then this light is nearest of all to us.'",
+			"author": " - Meister Eckhart"
+		},
+        {
+			"id": 164,
+			"quote": "'The unconscious wants truth. It ceases to speak to those who want something else more than the truth.'",
+			"author": " - Adrienne Rich"
+		},
+        {
+			"id": 165,
+			"quote": "'Real learning comes about when the competitive spirit has ceased.'",
+			"author": " - J. Krishnamurti"
+		},
+        {
+			"id": 166,
+			"quote": "'Only when he no longer knows what he is doing does the painter do good things.'",
+			"author": " - Edgar Degas"
+		},
+        {
+			"id": 167,
+			"quote": "'He who knows others is wise; he who knows himself is enlightened.'",
+			"author": " - Lao-Tzu"
+		},
+        {
+			"id": 168,
+			"quote": "'I will tell you what I have learned myself. For me, a long five or six mile walk helps. And one must go alone and every day.'",
+			"author": " - Brenda Ueland"
+		},
+        {
+			"id": 169,
+			"quote": "'How often - even before we began - have we declared a task 'impossible'? And how often have we constructed a picture of ourselves as being inadequate?... A great deal depends upon the thought patterns we choose and on the persistence with which we affirm them.'",
+			"author": " - Piero Ferrucci"
+		},
+        {
+			"id": 170,
+			"quote": "'It's a funny thing about life; if you refuse to accept anything but the best, you very often get it.'",
+			"author": " - Somerset Maugham"
+		},
+        {
+			"id": 171,
+			"quote": "'Art happens - no hovel is safe from it, no prince can depend on it, the vastest intelligence cannot bring it about.'",
+			"author": " - James Abbot & McNeill Whistler"
+		},
+        {
+			"id": 172,
+			"quote": "'The job of the artist is always to deepen the mystery.'",
+			"author": " - Francis Bacon"
+		},
+        {
+			"id": 173,
+			"quote": "'The function of the creative artist consists of making laws, not in following laws already made.'",
+			"author": " - Ferruccio Busoni"
+		},
+        {
+			"id": 174,
+			"quote": "'What moves men of genius, or what rather inspires their work, is not new ideas, but their obsession with that what has already been said is still not  enough.'",
+			"author": " - Eugéne Delacroix"
+		},
+        {
+			"id": 175,
+			"quote": "'No amount of skillful invention can replace the essential element of imagination.'",
+			"author": " - Edward Hopper"
+		},
+        {
+			"id": 176,
+			"quote": "'You are lost the instant you know what the result will be.'",
+			"author": " - Juan Gris"
+		},
+        {
+			"id": 177,
+			"quote": "'No longer conscious of my movement, I discovered a new unity with nature. I had found a new source of power and beauty, a source I never dreamed existed.'",
+			"author": " - Roger Bannister"
+		},
+        {
+			"id": 178,
+			"quote": "'To keep the body in good health is a duty... Otherwise we shall not be able to keep our mind strong and clear.'",
+			"author": " - Buddha"
+		},
+        {
+			"id": 179,
+			"quote": "'Here in this body are the sacred rivers: here are the sun and moon as well as all the pilgrimage places... I have not encountered another temple as blissful as my own body.'",
+			"author": " - Saraha"
+		},
+        {
+			"id": 180,
+			"quote": "'God bless the roots! Body and soul are one.'",
+			"author": " - Theodore Roethke",
+            "tags": "god"
+		},
+        {
+			"id": 181,
+			"quote": "'Art does not reproduce the visible; rather, it makes it visible. The moon develops creativity as chemicals develop photographic images.'",
+			"author": " - Norma Jean Harris"
+		},
+        {
+			"id": 182,
+			"quote": "'Adventures don't begin until you get into the forest. That first in an act of faith.'",
+			"author": " - Mickey Hart"
+		},
+        {
+			"id": 183,
+			"quote": "'Do not fear mistakes - there are none.'",
+			"author": " - Miles Davis",
+            "tags": "music"
+		},
+        {
+			"id": 184,
+			"quote": "'The most beautiful thing we can experience is the mysterious.'",
+			"author": " - Albert Einstein"
+		},
+        {
+			"id": 185,
+			"quote": "'What shakes the eye but the invisible?.'",
+			"author": " - Theodore Roethke"
+		},
+        {
+			"id": 186,
+			"quote": "'For me a painting is a story which stimulates the imagination and draws the mind into a place filled with expectation, excitement, wonder and pleasure.'",
+			"author": " - J. P. Hughston"
+		},
+        {
+			"id": 187,
+			"quote": "'Play is the exultation of the possible.'",
+			"author": " - Martin Buber"
+		},
+        {
+			"id": 188,
+			"quote": "'One does not discover new lands without consenting to lose sight of the shore for a very long time.'",
+			"author": " - André Gide"
+		},
+        {
+			"id": 189,
+			"quote": "'I finally discovered the source of all movement, the unity from which all diversities of movement are born.'",
+			"author": " - Isadora Duncan"
+		},
+        {
+			"id": 190,
+			"quote": "'Creation is only the projection into form of that which already exists.'",
+			"author": " - Shrimad Bhagavatam"
+		},
+        {
+			"id": 191,
+			"quote": "'A painting is never finished - it simply stops in interesting places.'",
+			"author": " - Paul Gardner"
+		},
+        {
+			"id": 192,
+			"quote": "'God is glorified in the fruitage of our lives.'",
+			"author": " - Joel S. Goldsmith",
+            "tags": "god"
+		},
+        {
+			"id": 193,
+			"quote": "'Until we accept the fact that life itself is founded in mystery, we shall learn nothing.'",
+			"author": " - Henry Miller"
+		},
+        {
+			"id": 194,
+			"quote": "'I learn by going where I have to go.'",
+			"author": " - Theodore Roethke"
+		}
+    ]
+}
