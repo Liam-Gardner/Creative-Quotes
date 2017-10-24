@@ -11,7 +11,7 @@ xhttp.onreadystatechange = function () {
 };
 
 
-var jsonAddressHTTP = "https://cdn.rawgit.com/Liam-Gardner/Creative-Quotes/master/json/index.php?f=quotes";
+var jsonAddressHTTP = "https://cdn.rawgit.com/Liam-Gardner/Creative-Quotes/master/json/quotes.json";
 xhttp.open("GET", jsonAddressHTTP, true);
 xhttp.send();
 
@@ -69,3 +69,8 @@ $(function () {
         tweetMe();
     });
 });
+
+//DEBUG
+/*function testMe(){
+    return response.quotes[35].quote + "<strong>" + "<br>" + "<p style='float:right'>"+ response.quotes[35].author; 
+}*/

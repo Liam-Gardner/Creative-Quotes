@@ -1,7 +1,3 @@
-h1 {
-    color: red;
-}
-
 body {
     background-color: black;          
 }
@@ -32,7 +28,10 @@ div.col-sm-6 {
 div.mainQuote{
     background-color: ;
     border-radius:20px;
-    background-image: url(https://i.pinimg.com/originals/17/0d/9c/170d9cdcb5432859db545ac625ac2e87.jpg);
+    background-image: 
+    url(http://www.powerpointhintergrund.com/uploads/old-paper-background-powerpoint-16.jpg);
+    /*url(https://i.pinimg.com/originals/17/0d/9c/170d9cdcb5432859db545ac625ac2e87.jpg);
+    Stretch this image 800px;*/
 }
 
 p#quoteSpace {
