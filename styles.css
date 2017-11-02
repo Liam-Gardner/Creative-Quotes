@@ -156,3 +156,16 @@ img.twitterBtn{
     outline:none;
     float:left;
 }
+
+div.footer{
+  width:100%;
+  text-align:center;
+}
+a.footer{
+  color:#714e28;
+  
+}
+a.footer:hover{
+  color:#d1383d;
+  text-decoration: none;
+}
