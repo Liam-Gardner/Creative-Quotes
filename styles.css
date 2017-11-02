@@ -1,5 +1,5 @@
 body {
-    background-color: black;          
+    background-color: palegoldenrod;
 }
 
 div.container {
@@ -21,23 +21,20 @@ div.col-sm-4 {
 }
 
 div.col-sm-6 {
-    border: 0px solid red;
+    border: 0px solid black;
     padding: 10px;
 }
 
 div.mainQuote{
     background-color: ;
     border-radius:20px;
-    background-image: 
-    url(http://www.powerpointhintergrund.com/uploads/old-paper-background-powerpoint-16.jpg);
-    /*url(https://i.pinimg.com/originals/17/0d/9c/170d9cdcb5432859db545ac625ac2e87.jpg);
-    Stretch this image 800px;*/
+    background-image: url(images/bookLeft.jpg);
 }
 
 p#quoteSpace {
     background-color: transparent;
     border-radius: 0px 0px 0px 0px;
-    color:black;
+    color:floralwhite;
     padding-top: 20px;
     padding-right: 50px;
     padding-bottom: 20px;
@@ -98,18 +95,19 @@ div.row {
 
 #getQuote{
     position: relative;
-    background-color: black;
-    border: 2px solid transparent;
+    background-color: #d1383d;
+    border: 0px solid transparent;
     padding: 10px 10px 10px 10px;
-    font-size: 14px;
-    color: bisque;
+    font-size: 13px;
+    color: #debb67;
     cursor:default;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     overflow: hidden;
     border-radius: 10px ;
     outline:none;
-    float:right
+    float:right;
+    font-weight: bold;
     }
 
 #getQuote:after {
@@ -137,8 +135,8 @@ div.row {
 }
 
 img.twitterBtn{
-    width:53px;
-    height: 53px;
+    width: 40px;
+    height: 40px;
     
 }
 
@@ -157,29 +155,4 @@ img.twitterBtn{
     border-radius: 10px;
     outline:none;
     float:left;
-    
-}
-
-#tweet:after {
-    content: "";
-    background-color: bisque;
-    display: block;
-    position: absolute;
-    padding-top: 300%;
-    padding-left: 350%;
-    margin-left: -20px !important;
-    margin-top: -120%;
-    opacity: 0;
-    border: none;
-    transition: all 0.8s;
-    border-radius: 10px;
-    overflow: hidden;
-}
-
-#tweet:active:after {
-    padding: 0;
-    margin: 0;
-    opacity: 1;
-    transition: 0s;
-    border-radius: 10px
 }

@@ -19,6 +19,8 @@ xhttp.send();
 var currentQuote = "";
 var currentAuthor = "";
 
+
+
 function randomQuote(min, max) {
     'use strict';
     min = response.quotes.length - response.quotes.length;
@@ -29,7 +31,7 @@ function randomQuote(min, max) {
         //return a random quote with the correct author and also html tags 
     currentQuote = response.quotes[randomNum].quote;
     currentAuthor = response.quotes[randomNum].author;
-    return currentQuote + "<strong>" + "<br>" + "<p style='float:right'>" + currentAuthor;
+    return "<strong>" + currentQuote + "</strong><em><br><br><p style='float:right'>" + currentAuthor + "</em>";
 }
 
 //TWITTER API
@@ -59,18 +61,16 @@ function tweetMe() {
     window.open(tweetBaseURL + currentQuote + currentAuthor);
 }
 
+
+
 //jQuery
 $(function () {
     'use strict';
     $('.button#getQuote').click(function () {
         document.getElementById('quoteSpace').innerHTML = randomQuote();
     });
+    
     $('#tweet').click(function () {
         tweetMe();
     });
 });
-
-//DEBUG
-/*function testMe(){
-    return response.quotes[35].quote + "<strong>" + "<br>" + "<p style='float:right'>"+ response.quotes[35].author; 
-}*/
